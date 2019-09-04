@@ -1,0 +1,18 @@
+///////////////////////////////////////////////
+//
+// **************************
+// ** ENGLISH - 19/Jul/2018 **
+//
+// Project: libObfuscate v2.00
+// Project: OpenPuff v4.01
+//
+// This software is released under:
+// * LGPL 3.0: "www.gnu.org/licenses/lgpl.html"
+//
+// You're free to copy, distribute and make commercial use
+// of this software under the following conditions:
+// * You cite the author and copyright owner: "www.embeddedsw.net"
+// * You provide a link to the Homepage: "www.embeddedsw.net/libobfuscate.html"
+// * You provide a link to the Homepage: "www.embeddedsw.net/openpuff.html"
+//
+///////////////////////////////////////////////
