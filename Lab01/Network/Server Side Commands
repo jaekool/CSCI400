@@ -1,0 +1,15 @@
+cd CS*/Lab01/Tools/co*/co*
+
+gcc -o covert_tcp covert_tcp.c
+
+Method One
+sudo ./covert_tcp -source 192.168.43.11 -dest_port -server -file received-secret.txt
+
+Method Two
+sudo ./covert_tcp -source_port 80 -server -seq -file received-secret2.txt
+
+Method Three
+sudo ./covert_tcp -source_port 80 -server -ack -file secret3.txt
+
+diff -c secret1.txt received-secret1.txt
+

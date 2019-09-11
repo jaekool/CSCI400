@@ -1,0 +1,277 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <title>Crypto labs</title>
+  </head>
+  <body>
+    <h2>CSCI 400 Cybersecurity Capstone Lab 2: Cryptography, Collisions,
+      and High Factors<br>
+    </h2>
+    <hr>
+    <p align="right">Sep. 12, 2018<br>
+    </p>
+    <br>
+    There are two major sections: Hash collisions,&nbsp; and RSA Modulus
+    Factoring.<br>
+    <h3>Section 1: Hash collisions</h3>
+    <h4>MD5<br>
+    </h4>
+    There are lots of examples of hash collisions on the internet. You
+    can find some good examples in <a
+      href="http://www.mscs.dal.ca/%7Eselinger/md5collision/">here</a>
+    and <a href="http://www.links.org/?p=6">here</a>. <br>
+    We provide some tools that can find two different files with same
+    hash. You can use them to create your own files have
+    hash-collisions. <br>
+    <br>
+    First, we provide three tools to generate/verify MD5.
+    <ul>
+      <li><a href="http://www.md5hashgenerator.com/"><b>MD5 Hash
+            Generator</b></a> - an online MD5 generater that can
+        generate MD5 hash code for string.</li>
+      <li><b>MD5 Check Utility 2.31</b>(Windows) - a tools can generate
+        or verify MD5 hash code for specific file. You can find this
+        tools in the folder named "tools".</li>
+      <li><b>MD5</b>(Mac OS X) - create and compare MD5 checksums on Mac
+        OS.</li>
+    </ul>
+    If you use OSX or Linux, there is an easier to compute the MD5 hash
+    code. Use the command <code>md5</code> of OpenSSL, you can get a
+    MD5 for specific file. For example: <br>
+    <code>openssl md5 test.txt</code> Now, you can create your own
+    hash-collided files using the tools we provided here. <br>
+    <br>
+    <b>Evilize 0.1</b>(evliize-0.1.tar.gz) can create pairs of
+    executable files with the same MD5 hash. To use this tool, you have
+    to compile it first:<br>
+    <code> <br>
+      tar zxf evilize-0.1.tar.gz<br>
+      cd evilize-0.1<br>
+      make<br>
+      gcc hello-erase.c goodevil.o -o hello-erase<br>
+    </code> <br>
+    You can write your own c program to generate good and bad behaviors
+    in this step. Then, get your initial vector by executing this
+    command:<br>
+    <code>./evilize hello-erase -i<br>
+    </code><br>
+    Now, you can create your MD5 collision by this command: <br>
+    <br>
+    <code>./md5coll 0x23d3e487 0x3e3ea619 0xc7bdd6fa 0x2d0271e7 &gt;
+      init.txt<br>
+    </code><br>
+    Note here you must replace the vector on the command line with your
+    own. By now, you can create a pair of good and evil programs by
+    running: <br>
+    <br>
+    <code>./evilize hello-erase -c init.txt -g good -e evil<br>
+    </code><br>
+    You get a good executable file and a bad executable file with same
+    MD5 hash code. Now you can run the two program to act different
+    behaviors and compare the MD5 hash code by the MD5 Check Utility
+    2.31. Detailed instruction for this tool can be find in README file.<br>
+    <br>
+    <b>selfextract</b>(selfextract.zip) is a tool that can generate two
+    self-extracting archives with the same MD5 hash code. These two
+    self-extracting archives named package1.exe and package2.exe will be
+    created by executing this command:<br>
+    <br>
+    <code>pack3 file1 file2 file3 file4 file5 file6<br>
+    </code><br>
+    Now you can extract the files or verify the MD5s. You can generate
+    MD5 for package1.exe, then verify this MD5 on package2.exe. If the
+    codes matche, the two files have hash-collision.<br>
+    <br>
+    <img src="img/ss_01.png"><br>
+    <b>Figure 1. Verify the MD5 Hash Code</b><br>
+    <br>
+    <b> web_version1</b>(web_version1.zip) - a program demonstrates the
+    method of tunneling according to the paper "Tunnels in Hash
+    Functions: MD5 Collisions Within a Minute" by Vlastimil Klima. You
+    can find the details in <a
+      href="http://cryptography.hyperlink.cz/MD5_collisions.html">here</a>.
+    By executing the program you can get the log file looks like: <br>
+    <code></code>
+    <pre>07.09.2010 09:39:30.972<br><br> The first block collision took  : 14.300000 sec<br>07.09.2010 09:39:45.528<br><br> Check: The same MD5 hash<br><br> The second block collision took  : 1.600000 sec07.09.2010 09:39:47.215<br><br> The first and the second blocks together took : 15.900000 sec<br> AVERAGE time for the 1st block = 14.300000 sec<br> AVERAGE time for the 2nd block = 1.600000 sec<br> AVERAGE time for the complete collision = 15.900000 sec<br> No. of collisions = 1<br><br> The first block collision took  : 45.100000 sec<br>07.09.2010 09:40:32.606<br><br> Check: The same MD5 hash<br><br> The second block collision took  : 0.500000 sec07.09.2010 09:40:33.140<br><br> The first and the second blocks together took : 45.600000 sec<br> AVERAGE time for the 1st block = 29.700000 sec<br> AVERAGE time for the 2nd block = 1.050000 sec<br> AVERAGE time for the complete collision = 30.750000 sec<br> No. of collisions = 2<br><br> The first block collision took  : 18.100000 sec<br></pre>
+    <br>
+    You can create your own hash-collided strings or files and compare
+    their MD5 hash code by yourself. <br>
+    <h4>SHA-1</h4>
+    SHA-1 collisions are relatively new (February 2017). You can read
+    the SHAttered paper, referenced below. Following the code there, we
+    get:<br>
+    <br>
+    <pre>% base64 --decode &lt; coll.tar.bz2.asc &gt; coll.tar.bz2</pre>
+    <pre>% tar xvf coll.tar.bz2</pre>
+    <pre>x good.pdf</pre>
+    <pre>x bad.pdf</pre>
+    <pre>% ls</pre>
+    <pre>bad.pdf coll.tar.bz2.asc coll.tar.bz2 good.pdf<br><br><object data="good.pdf" type="application/pdf" width="10%" height="10%">
+  <p>Alternative text - the file is here: <a href="good.pdf">!</a></p>
+</object> <object data="bad.pdf" type="application/pdf" width="10%" height="10%">
+
+<p>Alternative text - the file is here: <a href="bad.pdf">!</a></p>
+</object><br>Figure 2: good.pdf and bad.pdf<br></pre>
+    <pre>% openssl sha1 bad.pdf</pre>
+    <pre>SHA1(bad.pdf)= d00bbe65d80f6d53d5c15da7c6b4f0a655c5a86a</pre>
+    <pre>% openssl sha1 good.pdf</pre>
+    <pre>SHA1(good.pdf)= d00bbe65d80f6d53d5c15da7c6b4f0a655c5a86a<br><br></pre>
+    These two files appear to have the same SHA-1 hash. Let's compare
+    them with another hash function, MD5:<br>
+    <br>
+    <pre>% openssl md5 good.pdf</pre>
+    <pre>MD5(good.pdf)= 2115f6eadd8f3d5d84fd4d719580d0c5</pre>
+    <pre>% openssl md5 bad.pdf</pre>
+    <pre>MD5(bad.pdf)= daa63d56800148f230388101311b72d4</pre>
+    So we can see that the files are really different. Another example
+    can be seen <a href="https://shattered.io/static/shattered.png">here</a>.<br>
+    <br>
+    First create two files with a SHA-1 collision using the <a
+      href="http://alf.nu/SHA1">online tool</a>, taking into account the
+    size limitation of the images.<br>
+    <br>
+    Second, try the <a href="https://github.com/nneonneo/sha1collider">python
+
+      code</a> with two PDFs of your choice:<br>
+    <pre>% python3 collide.py PDF1.pdf PDF2.pdf<br><br></pre>
+    Sample PDFs for this python code with the occurring collision are
+    shown <a
+      href="https://github.com/nneonneo/sha1collider/tree/master/examples">here</a>.<br>
+    <br>
+    <br>
+    <br>
+    <hr>
+    <h3>Section 2: Web site SSL/TLS certificates</h3>
+    <b>Task:</b> Create a small RSA-based x509 certificate (384 bit
+    modulus, about 116 decimal digits), extract modulus n, factor n into
+    primes p and q (use openssl to create the certificate).<br>
+    <br>
+    <b>Tools</b>
+    <ul>
+      <li><b>Msieve (there are CPU and GPU variants)<br>
+        </b></li>
+      <li><b>YAFU (Yet Another Factorization Utility)</b></li>
+      <li><b>CADO-NFS<br>
+        </b></li>
+    </ul>
+    &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; The two tools Msieve (CPU
+    variant) and Yafu can be found in the folder named "tools".&nbsp;
+    You may want to explore these or other tools, depending on your
+    resources and operating system, but consider the following for best
+    results:<br>
+    <ul>
+      <li>CADO-NFS allows for simple factorization using a host,
+        assuming your have high computing power, and possibly many more
+        hosts at your disposal to expedite the process. You can simply
+        type the following once you have configured it:<br>
+      </li>
+    </ul>
+    <pre>	% ./cado-nfs.py integer</pre>
+    <ul>
+      <li>Jeff Gilchrist has a python script that works in conjunction
+        with ggnfs and msieve. If you have a GPU or more available, this
+        may work to your advantage.<br>
+      </li>
+    </ul>
+    <b>Task</b>: Factoring a 512-bit and a 1024-bit RSA modulus. <br>
+    <br>
+    512-bit modulus (optional)<br>
+    <br>
+    You may want to consider using Nadia Heninger's Factoring as a
+    Service approach. You will need an AWS EC2 account, populated with
+    at least $100 in credit (students at John Jay get that much per
+    academic year with AWS Educate).<br>
+    <br>
+    1024-bit modulus<br>
+    <br>
+    Not everything is as hard as it seems. Intrigued, you try to read
+    the paper 'Mining Your Ps and Qs' and find the code that goes with
+    it. You will need to find the right moduli to act as a database.
+    Once you have found the moduli to work with, extract them, and place
+    them one per line into the input file for the program.<br>
+    <br>
+    <b>Task:</b> Decrypt http traffic using an RSA private key<br>
+    <br>
+    Using WireShark, load the private RSA key ssldump-key.pem into the
+    proper screen under WireShark Preferences-&gt;Protocols-&gt;SSL, as
+    shown here. Click on RSA keys list &lt;Edit&gt; to bring up the
+    window 'SSL Decrypt':<br>
+    <br>
+    <img src="img/ssl-privatekey.png" alt="SSL capture RSA keys"
+      width="800" height="436"><br>
+    <br>
+    Locate and load the pcap file sample-ssldump.pcap using
+    File-&gt;Open. The packets inside the pcap become visible:<br>
+    <br>
+    <img src="img/sslcapture.png" alt="Packet capture window"
+      width="800" height="442"><br>
+    <br>
+    Click on a row, e.g. Client Key Exchange, as shown above. Click on
+    Analyze-&gt;Follow-&gt;SSL Stream, and you get to see the contents
+    of the SSL stream:<br>
+    <br>
+    <img src="img/decrypted-sslsession.png" alt="Decrypted SSL stream"
+      width="800" height="717"><br>
+    <br>
+    Voilà! You got it!<br>
+    <br>
+    <hr>
+    <h3>References</h3>
+    <b>Hash collisions:</b>
+    <ul>
+      <li><a href="http://cryptography.hyperlink.cz/MD5_collisions.html">Klima
+
+
+          Paper (MD5 collision)<br>
+        </a></li>
+      <li><a
+href="http://www.blackhat.com/presentations/bh-usa-09/BEVAND/BHUSA09-Bevand-MD5-SLIDES.pdf">BH
+
+          presentation</a></li>
+      <li><a href="https://shattered.io/">SHAttered Paper (SHA-1
+          collision)</a><br>
+      </li>
+      <li><a href="https://github.com/nneonneo/sha1collider">SHA1
+          Collider python code</a></li>
+      <li><a href="http://alf.nu/SHA1">SHA1 Collider online tool</a><br>
+      </li>
+    </ul>
+    <b>RSA Factoring:</b>
+    <ul>
+      <li><a href="http://sourceforge.net/projects/msieve/files/">Msieve
+          Project Homepage<br>
+        </a></li>
+      <li><a href="http://sites.google.com/site/bbuhrow/home">YAFU
+          Homepage</a></li>
+      <li><a
+          href="http://gilchrist.ca/jeff/factoring/nfs_beginners_guide.html">Python
+script
+
+
+          for factoring composites</a></li>
+      <li><a href="http://cado-nfs.gforge.inria.fr/">CADO-NFS</a></li>
+      <li><a href="https://github.com/eniac/faas">Factoring as a Service
+          (FaaS)</a></li>
+      <li><a href="https://factorable.net/weakkeys12.extended.pdf">Mining
+
+          Your Ps and Qs</a><br>
+      </li>
+    </ul>
+    <b>Other:</b>
+    <ul>
+      <li><a href="http://www.madboa.com/geek/openssl/">Some openssl
+          usage</a></li>
+      <li><a href="https://wiki.wireshark.org/SSL">Wireshark SSL</a><br>
+      </li>
+      <li><a href="https://docs.deterlab.net/education/student-intro/">Introduction
+to
+
+
+          DETER</a></li>
+      <li><a href="https://aws.amazon.com/education/awseducate/">AWS
+          Educate</a><br>
+      </li>
+    </ul>
+  </body>
+</html>
