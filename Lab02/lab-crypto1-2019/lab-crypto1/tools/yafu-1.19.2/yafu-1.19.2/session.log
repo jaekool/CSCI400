@@ -1,0 +1,837 @@
+08/10/2010 13:05:02 v1.19 @ talz.mayo.edu, Initializing... 
+Powered by Tom's Fast Math (x86-64 asm)
+Using GMP-ECM 6.2.3, Powered by GMP 4.2.3
+cached 78504 primes. pmax = 1000099
+detected cpu 0, with L1 = 32768 bytes, L2 = 262144 bytes
+08/10/2010 13:05:02 v1.19 @ talz.mayo.edu, New random seeds: 2918704448, 4038147780
+
+08/10/2010 13:05:02 v1.19 @ talz.mayo.edu, Processing expression: siqs(6470287906463336878241474855987746904297564226439499503918586590778209)
+
+08/10/2010 13:06:10 v1.19 @ potkin.mayo.edu, Initializing... 
+Powered by Tom's Fast Math (x86-64 asm)
+Using GMP-ECM 6.2.3, Powered by GMP 4.2.3
+cached 78504 primes. pmax = 1000099
+detected cpu 0, with L1 = 32768 bytes, L2 = 262144 bytes
+08/10/2010 13:06:10 v1.19 @ potkin.mayo.edu, New random seeds: 2590482944, 1634022413
+
+08/10/2010 13:06:10 v1.19 @ potkin.mayo.edu, Processing expression: siqs(6470287906463336878241474855987746904297564226439499503918586590778209)
+
+08/10/2010 13:06:45 v1.19 @ potkin.mayo.edu, Initializing... 
+Powered by Tom's Fast Math (x86-64 asm)
+Using GMP-ECM 6.2.3, Powered by GMP 4.2.3
+cached 78504 primes. pmax = 1000099
+detected cpu 0, with L1 = 32768 bytes, L2 = 262144 bytes
+08/10/2010 13:06:45 v1.19 @ potkin.mayo.edu, New random seeds: 353707191, 1021000597
+
+08/10/2010 13:06:45 v1.19 @ potkin.mayo.edu, Processing expression: siqs(6470287906463336878241474855987746904297564226439499503918586590778209)
+
+08/11/2010 10:35:20 v1.19 @ rotta.mayo.edu, Initializing... 
+Powered by Tom's Fast Math (x86-64 asm)
+Using GMP-ECM 6.2.3, Powered by GMP 4.2.3
+cached 78504 primes. pmax = 1000099
+detected cpu 0, with L1 = 32768 bytes, L2 = 262144 bytes
+08/11/2010 10:35:20 v1.19 @ rotta.mayo.edu, New random seeds: 3483424595, 1482606209
+
+08/11/2010 10:35:20 v1.19 @ rotta.mayo.edu, Processing expression: siqs(1323907421203145750809190928153285729017237765680304715482784058573)
+
+08/11/2010 10:35:48 v1.19 @ rotta.mayo.edu, Initializing... 
+Powered by Tom's Fast Math (x86-32 asm)
+cached 78504 primes. pmax = 0
+detected cpu 0, with L1 = 32768 bytes, L2 = 262144 bytes
+08/11/2010 10:35:48 v1.19 @ rotta.mayo.edu, New random seeds: 1415925254, 1315036489
+
+08/11/2010 10:35:48 v1.19 @ rotta.mayo.edu, Processing expression: siqs(1323907421203145750809190928153285729017237765680304715482784058573)
+
+08/11/2010 10:36:24 v1.19 @ rotta.mayo.edu, Initializing... 
+Powered by Tom's Fast Math (x86-32 asm)
+cached 78504 primes. pmax = 0
+detected cpu 0, with L1 = 32768 bytes, L2 = 262144 bytes
+08/11/2010 10:36:24 v1.19 @ rotta.mayo.edu, New random seeds: 3743611312, 4025731473
+
+08/11/2010 10:36:24 v1.19 @ rotta.mayo.edu, Processing expression: siqs(1323907421203145750809190928153285729017237765680304715482784058573)
+
+08/11/2010 10:37:44 v1.19 @ rotta.mayo.edu, Initializing... 
+Powered by Tom's Fast Math (x86-32 asm)
+cached 78504 primes. pmax = 0
+detected cpu 0, with L1 = 32768 bytes, L2 = 262144 bytes
+08/11/2010 10:37:44 v1.19 @ rotta.mayo.edu, New random seeds: 1572255342, 2398802472
+
+08/11/2010 10:37:44 v1.19 @ rotta.mayo.edu, Processing expression: siqs(6470287906463336878241474855987746904297564226439499503918586590778209)
+
+08/11/2010 10:38:25 v1.19 @ rotta.mayo.edu, Initializing... 
+Powered by Tom's Fast Math (x86-64 asm)
+Using GMP-ECM 6.2.3, Powered by GMP 4.2.3
+cached 78504 primes. pmax = 1000099
+detected cpu 0, with L1 = 32768 bytes, L2 = 262144 bytes
+08/11/2010 10:38:25 v1.19 @ rotta.mayo.edu, New random seeds: 3090248418, 4269994440
+
+08/11/2010 10:38:25 v1.19 @ rotta.mayo.edu, Processing expression: siqs(6470287906463336878241474855987746904297564226439499503918586590778209)
+
+08/11/2010 10:40:12 v1.19 @ sidious.mayo.edu, Initializing... 
+Powered by Tom's Fast Math (x86-64 asm)
+Using GMP-ECM 6.2.3, Powered by GMP 4.2.3
+cached 78504 primes. pmax = 1000099
+detected cpu 6, with L1 = 32768 bytes, L2 = 6291456 bytes
+08/11/2010 10:40:12 v1.19 @ sidious.mayo.edu, New random seeds: 396041862, 842602533
+
+08/11/2010 10:40:12 v1.19 @ sidious.mayo.edu, Processing expression: siqs(6470287906463336878241474855987746904297564226439499503918586590778209)
+
+08/11/2010 10:40:48 v1.19 @ sidious.mayo.edu, Initializing... 
+Powered by Tom's Fast Math (x86-32 asm)
+cached 78504 primes. pmax = 0
+detected cpu 6, with L1 = 32768 bytes, L2 = 6291456 bytes
+08/11/2010 10:40:48 v1.19 @ sidious.mayo.edu, New random seeds: 2249863031, 4196135555
+
+08/11/2010 10:40:48 v1.19 @ sidious.mayo.edu, Processing expression: siqs(6470287906463336878241474855987746904297564226439499503918586590778209)
+
+08/16/2010 09:58:09 v1.19 @ talz.mayo.edu, Initializing... 
+Powered by Tom's Fast Math (x86-64 asm)
+Using GMP-ECM 6.2.3, Powered by GMP 4.2.3
+cached 78504 primes. pmax = 1000099
+detected cpu 0, with L1 = 32768 bytes, L2 = 262144 bytes
+08/16/2010 09:58:09 v1.19 @ talz.mayo.edu, New random seeds: 3559954835, 157467789
+
+08/16/2010 09:58:09 v1.19 @ talz.mayo.edu, Processing expression: siqs(rsa(220)
+
+08/16/2010 09:58:13 v1.19 @ talz.mayo.edu, Initializing... 
+Powered by Tom's Fast Math (x86-64 asm)
+Using GMP-ECM 6.2.3, Powered by GMP 4.2.3
+cached 78504 primes. pmax = 1000099
+detected cpu 0, with L1 = 32768 bytes, L2 = 262144 bytes
+08/16/2010 09:58:13 v1.19 @ talz.mayo.edu, New random seeds: 1464623975, 3940020386
+
+08/16/2010 09:58:13 v1.19 @ talz.mayo.edu, Processing expression: siqs(rsa(220))
+
+08/16/2010 09:58:43 v1.19 @ talz.mayo.edu, Initializing... 
+Powered by Tom's Fast Math (x86-64 asm)
+Using GMP-ECM 6.2.3, Powered by GMP 4.2.3
+cached 78504 primes. pmax = 1000099
+detected cpu 0, with L1 = 32768 bytes, L2 = 262144 bytes
+08/16/2010 09:58:43 v1.19 @ talz.mayo.edu, New random seeds: 337918284, 2463329058
+
+08/16/2010 09:58:43 v1.19 @ talz.mayo.edu, Processing expression: siqs(rsa(256))
+
+08/16/2010 10:00:52 v1.19 @ talz.mayo.edu, Initializing... 
+Powered by Tom's Fast Math (x86-64 asm)
+Using GMP-ECM 6.2.3, Powered by GMP 4.2.3
+cached 78504 primes. pmax = 1000099
+detected cpu 0, with L1 = 32768 bytes, L2 = 262144 bytes
+08/16/2010 10:00:52 v1.19 @ talz.mayo.edu, New random seeds: 478476808, 2402101725
+
+08/16/2010 10:00:52 v1.19 @ talz.mayo.edu, Processing expression: siqs(rsa(284))
+
+08/16/2010 10:04:45 v1.19 @ talz.mayo.edu, Initializing... 
+Powered by Tom's Fast Math (x86-64 asm)
+Using GMP-ECM 6.2.3, Powered by GMP 4.2.3
+cached 78504 primes. pmax = 1000099
+detected cpu 0, with L1 = 32768 bytes, L2 = 262144 bytes
+08/16/2010 10:04:45 v1.19 @ talz.mayo.edu, New random seeds: 1779274137, 2051889876
+
+08/16/2010 10:04:45 v1.19 @ talz.mayo.edu, Processing expression: siqs(rsa(276))
+
+08/16/2010 10:08:06 v1.19 @ talz.mayo.edu, Initializing... 
+Powered by Tom's Fast Math (x86-64 asm)
+Using GMP-ECM 6.2.3, Powered by GMP 4.2.3
+cached 78504 primes. pmax = 1000099
+detected cpu 0, with L1 = 32768 bytes, L2 = 262144 bytes
+08/16/2010 10:08:06 v1.19 @ talz.mayo.edu, New random seeds: 3176007814, 968202355
+
+08/16/2010 10:08:06 v1.19 @ talz.mayo.edu, Processing expression: siqs(rsa(276))
+
+08/16/2010 10:11:20 v1.19 @ talz.mayo.edu, Initializing... 
+Powered by Tom's Fast Math (x86-64 asm)
+Using GMP-ECM 6.2.3, Powered by GMP 4.2.3
+cached 78504 primes. pmax = 1000099
+detected cpu 0, with L1 = 32768 bytes, L2 = 262144 bytes
+08/16/2010 10:11:20 v1.19 @ talz.mayo.edu, New random seeds: 774180361, 3283472671
+
+08/16/2010 10:11:20 v1.19 @ talz.mayo.edu, Processing expression: siqs(rsa(276))
+
+08/16/2010 10:13:21 v1.19 @ talz.mayo.edu, Initializing... 
+Powered by Tom's Fast Math (x86-64 asm)
+Using GMP-ECM 6.2.3, Powered by GMP 4.2.3
+cached 78504 primes. pmax = 1000099
+detected cpu 0, with L1 = 32768 bytes, L2 = 262144 bytes
+08/16/2010 10:13:21 v1.19 @ talz.mayo.edu, New random seeds: 3962079949, 3936235826
+
+08/16/2010 10:13:21 v1.19 @ talz.mayo.edu, Processing expression: siqs(rsa(276))
+
+08/16/2010 10:16:48 v1.19 @ talz.mayo.edu, Initializing... 
+Powered by Tom's Fast Math (x86-64 asm)
+Using GMP-ECM 6.2.3, Powered by GMP 4.2.3
+cached 78504 primes. pmax = 1000099
+detected cpu 0, with L1 = 32768 bytes, L2 = 262144 bytes
+08/16/2010 10:16:48 v1.19 @ talz.mayo.edu, New random seeds: 2696083639, 2154528962
+
+08/16/2010 10:16:48 v1.19 @ talz.mayo.edu, Processing expression: siqs(rsa(276))
+
+08/16/2010 10:19:40 v1.19 @ talz.mayo.edu, Initializing... 
+Powered by Tom's Fast Math (x86-64 asm)
+Using GMP-ECM 6.2.3, Powered by GMP 4.2.3
+cached 78504 primes. pmax = 1000099
+detected cpu 0, with L1 = 32768 bytes, L2 = 262144 bytes
+08/16/2010 10:19:40 v1.19 @ talz.mayo.edu, New random seeds: 1081734641, 1464026776
+
+08/16/2010 10:27:27 v1.19 @ talz.mayo.edu, Initializing... 
+Powered by Tom's Fast Math (x86-64 asm)
+Using GMP-ECM 6.2.3, Powered by GMP 4.2.3
+cached 78504 primes. pmax = 1000099
+detected cpu 0, with L1 = 32768 bytes, L2 = 262144 bytes
+08/16/2010 10:27:27 v1.19 @ talz.mayo.edu, User random seed:  1464026776
+
+08/16/2010 10:27:27 v1.19 @ talz.mayo.edu, Processing expression: siqs(79243964004897418654733891866370825188399928276081457629907339534666136125368479169)
+
+08/16/2010 10:30:26 v1.19 @ talz.mayo.edu, Initializing... 
+Powered by Tom's Fast Math (x86-64 asm)
+Using GMP-ECM 6.2.3, Powered by GMP 4.2.3
+cached 78504 primes. pmax = 1000099
+detected cpu 0, with L1 = 32768 bytes, L2 = 262144 bytes
+08/16/2010 10:30:26 v1.19 @ talz.mayo.edu, User random seed:  1081734641
+
+08/16/2010 10:30:26 v1.19 @ talz.mayo.edu, Processing expression: siqs(79243964004897418654733891866370825188399928276081457629907339534666136125368479169)
+
+08/16/2010 10:32:45 v1.19 @ talz.mayo.edu, Initializing... 
+Powered by Tom's Fast Math (x86-64 asm)
+Using GMP-ECM 6.2.3, Powered by GMP 4.2.3
+cached 78504 primes. pmax = 1000099
+detected cpu 0, with L1 = 32768 bytes, L2 = 262144 bytes
+08/16/2010 10:32:45 v1.19 @ talz.mayo.edu, User random seed:  1464026776
+
+08/16/2010 10:32:45 v1.19 @ talz.mayo.edu, Processing expression: siqs(79243964004897418654733891866370825188399928276081457629907339534666136125368479169)
+
+08/16/2010 10:35:15 v1.19 @ talz.mayo.edu, Initializing... 
+Powered by Tom's Fast Math (x86-64 asm)
+Using GMP-ECM 6.2.3, Powered by GMP 4.2.3
+cached 78504 primes. pmax = 1000099
+detected cpu 0, with L1 = 32768 bytes, L2 = 262144 bytes
+08/16/2010 10:35:15 v1.19 @ talz.mayo.edu, User random seed:  1464026776
+
+08/16/2010 10:35:15 v1.19 @ talz.mayo.edu, Processing expression: siqs(79243964004897418654733891866370825188399928276081457629907339534666136125368479169)
+
+08/16/2010 10:36:32 v1.19 @ talz.mayo.edu, Initializing... 
+Powered by Tom's Fast Math (x86-64 asm)
+Using GMP-ECM 6.2.3, Powered by GMP 4.2.3
+cached 78504 primes. pmax = 1000099
+detected cpu 0, with L1 = 32768 bytes, L2 = 262144 bytes
+08/16/2010 10:36:32 v1.19 @ talz.mayo.edu, User random seed:  1464026776
+
+08/16/2010 10:36:32 v1.19 @ talz.mayo.edu, Processing expression: siqs(79243964004897418654733891866370825188399928276081457629907339534666136125368479169)
+
+08/16/2010 10:40:23 v1.19 @ talz.mayo.edu, Initializing... 
+Powered by Tom's Fast Math (x86-64 asm)
+Using GMP-ECM 6.2.3, Powered by GMP 4.2.3
+cached 78504 primes. pmax = 1000099
+detected cpu 0, with L1 = 32768 bytes, L2 = 262144 bytes
+08/16/2010 10:40:23 v1.19 @ talz.mayo.edu, User random seed:  1464026776
+
+08/16/2010 10:40:23 v1.19 @ talz.mayo.edu, Processing expression: siqs(79243964004897418654733891866370825188399928276081457629907339534666136125368479169)
+
+08/16/2010 10:41:05 v1.19 @ talz.mayo.edu, Initializing... 
+Powered by Tom's Fast Math (x86-64 asm)
+Using GMP-ECM 6.2.3, Powered by GMP 4.2.3
+cached 78504 primes. pmax = 1000099
+detected cpu 0, with L1 = 32768 bytes, L2 = 262144 bytes
+08/16/2010 10:41:05 v1.19 @ talz.mayo.edu, User random seed:  1464026776
+
+08/16/2010 10:41:05 v1.19 @ talz.mayo.edu, Processing expression: siqs(79243964004897418654733891866370825188399928276081457629907339534666136125368479169)
+
+08/16/2010 10:41:35 v1.19 @ talz.mayo.edu, Initializing... 
+Powered by Tom's Fast Math (x86-64 asm)
+Using GMP-ECM 6.2.3, Powered by GMP 4.2.3
+cached 78504 primes. pmax = 1000099
+detected cpu 0, with L1 = 32768 bytes, L2 = 262144 bytes
+08/16/2010 10:41:35 v1.19 @ talz.mayo.edu, User random seed:  1464026776
+
+08/16/2010 10:41:35 v1.19 @ talz.mayo.edu, Processing expression: siqs(79243964004897418654733891866370825188399928276081457629907339534666136125368479169)
+
+08/16/2010 10:44:06 v1.19 @ talz.mayo.edu, Initializing... 
+Powered by Tom's Fast Math (x86-64 asm)
+Using GMP-ECM 6.2.3, Powered by GMP 4.2.3
+cached 78504 primes. pmax = 1000099
+detected cpu 0, with L1 = 32768 bytes, L2 = 262144 bytes
+08/16/2010 10:44:06 v1.19 @ talz.mayo.edu, New random seeds: 2940196620, 688552743
+
+08/16/2010 10:44:06 v1.19 @ talz.mayo.edu, Processing expression: siqs(rsa(276))
+
+08/16/2010 10:46:58 v1.19 @ talz.mayo.edu, Initializing... 
+Powered by Tom's Fast Math (x86-64 asm)
+Using GMP-ECM 6.2.3, Powered by GMP 4.2.3
+cached 78504 primes. pmax = 1000099
+detected cpu 0, with L1 = 32768 bytes, L2 = 262144 bytes
+08/16/2010 10:46:58 v1.19 @ talz.mayo.edu, New random seeds: 147068996, 2961091867
+
+08/16/2010 10:46:58 v1.19 @ talz.mayo.edu, Processing expression: siqs(rsa(276))
+
+08/16/2010 10:48:27 v1.19 @ talz.mayo.edu, Initializing... 
+Powered by Tom's Fast Math (x86-64 asm)
+Using GMP-ECM 6.2.3, Powered by GMP 4.2.3
+cached 78504 primes. pmax = 1000099
+detected cpu 0, with L1 = 32768 bytes, L2 = 262144 bytes
+08/16/2010 10:48:27 v1.19 @ talz.mayo.edu, New random seeds: 327844184, 3442195522
+
+08/16/2010 10:48:27 v1.19 @ talz.mayo.edu, Processing expression: siqs(rsa(276))
+
+08/16/2010 10:52:37 v1.19 @ talz.mayo.edu, Initializing... 
+Powered by Tom's Fast Math (x86-64 asm)
+Using GMP-ECM 6.2.3, Powered by GMP 4.2.3
+cached 78504 primes. pmax = 1000099
+detected cpu 0, with L1 = 32768 bytes, L2 = 262144 bytes
+08/16/2010 10:52:37 v1.19 @ talz.mayo.edu, New random seeds: 2806251383, 4015567334
+
+08/16/2010 10:52:37 v1.19 @ talz.mayo.edu, Processing expression: siqs(rsa(276))
+
+08/16/2010 10:57:59 v1.19 @ talz.mayo.edu, Initializing... 
+Powered by Tom's Fast Math (x86-64 asm)
+Using GMP-ECM 6.2.3, Powered by GMP 4.2.3
+cached 78504 primes. pmax = 1000099
+detected cpu 0, with L1 = 32768 bytes, L2 = 262144 bytes
+08/16/2010 10:57:59 v1.19 @ talz.mayo.edu, New random seeds: 1682986556, 1106605861
+
+08/16/2010 10:57:59 v1.19 @ talz.mayo.edu, Processing expression: siqs(rsa(276))
+
+08/16/2010 11:56:13 v1.19 @ talz.mayo.edu, Initializing... 
+Powered by Tom's Fast Math (x86-64 asm)
+Using GMP-ECM 6.2.3, Powered by GMP 4.2.3
+cached 78504 primes. pmax = 1000099
+detected cpu 0, with L1 = 32768 bytes, L2 = 262144 bytes
+08/16/2010 11:56:13 v1.19 @ talz.mayo.edu, New random seeds: 2506627573, 852264469
+
+08/16/2010 11:56:13 v1.19 @ talz.mayo.edu, Processing expression: siqs(rsa(276))
+
+08/16/2010 11:59:46 v1.19 @ talz.mayo.edu, Initializing... 
+Powered by Tom's Fast Math (x86-64 asm)
+Using GMP-ECM 6.2.3, Powered by GMP 4.2.3
+cached 78504 primes. pmax = 1000099
+detected cpu 0, with L1 = 32768 bytes, L2 = 262144 bytes
+08/16/2010 11:59:46 v1.19 @ talz.mayo.edu, New random seeds: 1037789553, 3426474147
+
+08/16/2010 11:59:46 v1.19 @ talz.mayo.edu, Processing expression: siqs(rsa(276))
+
+08/16/2010 12:03:23 v1.19 @ talz.mayo.edu, Initializing... 
+Powered by Tom's Fast Math (x86-64 asm)
+Using GMP-ECM 6.2.3, Powered by GMP 4.2.3
+cached 78504 primes. pmax = 1000099
+detected cpu 0, with L1 = 32768 bytes, L2 = 262144 bytes
+08/16/2010 12:03:23 v1.19 @ talz.mayo.edu, New random seeds: 3030937297, 2392182064
+
+08/16/2010 12:03:23 v1.19 @ talz.mayo.edu, Processing expression: siqs(rsa(276))
+
+08/16/2010 12:06:50 v1.19 @ talz.mayo.edu, Initializing... 
+Powered by Tom's Fast Math (x86-64 asm)
+Using GMP-ECM 6.2.3, Powered by GMP 4.2.3
+cached 78504 primes. pmax = 1000099
+detected cpu 0, with L1 = 32768 bytes, L2 = 262144 bytes
+08/16/2010 12:06:50 v1.19 @ talz.mayo.edu, New random seeds: 257197485, 3621571890
+
+08/16/2010 12:06:50 v1.19 @ talz.mayo.edu, Processing expression: siqs(rsa(276))
+
+08/16/2010 12:09:33 v1.19 @ talz.mayo.edu, Initializing... 
+Powered by Tom's Fast Math (x86-64 asm)
+Using GMP-ECM 6.2.3, Powered by GMP 4.2.3
+cached 78504 primes. pmax = 1000099
+detected cpu 0, with L1 = 32768 bytes, L2 = 262144 bytes
+08/16/2010 12:09:33 v1.19 @ talz.mayo.edu, New random seeds: 2751921835, 2741272425
+
+08/16/2010 12:09:33 v1.19 @ talz.mayo.edu, Processing expression: siqs(rsa(276))
+
+08/16/2010 12:13:03 v1.19 @ talz.mayo.edu, Initializing... 
+Powered by Tom's Fast Math (x86-64 asm)
+Using GMP-ECM 6.2.3, Powered by GMP 4.2.3
+cached 78504 primes. pmax = 1000099
+detected cpu 0, with L1 = 32768 bytes, L2 = 262144 bytes
+08/16/2010 12:13:03 v1.19 @ talz.mayo.edu, New random seeds: 510170365, 2489916905
+
+08/16/2010 12:13:03 v1.19 @ talz.mayo.edu, Processing expression: siqs(rsa(276))
+
+08/16/2010 12:16:00 v1.19 @ talz.mayo.edu, Initializing... 
+Powered by Tom's Fast Math (x86-64 asm)
+Using GMP-ECM 6.2.3, Powered by GMP 4.2.3
+cached 78504 primes. pmax = 1000099
+detected cpu 0, with L1 = 32768 bytes, L2 = 262144 bytes
+08/16/2010 12:16:00 v1.19 @ talz.mayo.edu, New random seeds: 624928047, 4116566703
+
+08/16/2010 12:16:00 v1.19 @ talz.mayo.edu, Processing expression: siqs(rsa(276))
+
+08/16/2010 12:19:52 v1.19 @ talz.mayo.edu, Initializing... 
+Powered by Tom's Fast Math (x86-64 asm)
+Using GMP-ECM 6.2.3, Powered by GMP 4.2.3
+cached 78504 primes. pmax = 1000099
+detected cpu 0, with L1 = 32768 bytes, L2 = 262144 bytes
+08/16/2010 12:19:52 v1.19 @ talz.mayo.edu, New random seeds: 1359167133, 4276716349
+
+08/16/2010 12:26:09 v1.19 @ potkin.mayo.edu, Initializing... 
+Powered by Tom's Fast Math (x86-64 asm)
+Using GMP-ECM 6.2.3, Powered by GMP 4.2.3
+cached 78504 primes. pmax = 1000099
+detected cpu 0, with L1 = 32768 bytes, L2 = 262144 bytes
+08/16/2010 12:26:09 v1.19 @ potkin.mayo.edu, User random seed:  4276716349
+
+08/16/2010 12:26:09 v1.19 @ potkin.mayo.edu, Processing expression: siqs(109197834890476039958144665427731257021593862501655441850358091435365993458488651301)
+
+08/16/2010 12:29:47 v1.19 @ potkin.mayo.edu, Initializing... 
+Powered by Tom's Fast Math (x86-64 asm)
+Using GMP-ECM 6.2.3, Powered by GMP 4.2.3
+cached 78504 primes. pmax = 1000099
+detected cpu 0, with L1 = 32768 bytes, L2 = 262144 bytes
+08/16/2010 12:29:47 v1.19 @ potkin.mayo.edu, User random seed:  1359167133
+
+08/16/2010 12:29:47 v1.19 @ potkin.mayo.edu, Processing expression: siqs(109197834890476039958144665427731257021593862501655441850358091435365993458488651301)
+
+08/16/2010 13:17:24 v1.19 @ potkin.mayo.edu, Initializing... 
+Powered by Tom's Fast Math (x86-64 asm)
+Using GMP-ECM 6.2.3, Powered by GMP 4.2.3
+cached 78504 primes. pmax = 1000099
+detected cpu 0, with L1 = 32768 bytes, L2 = 262144 bytes
+08/16/2010 13:17:24 v1.19 @ potkin.mayo.edu, User random seed:  4276716349
+
+08/16/2010 13:17:24 v1.19 @ potkin.mayo.edu, Processing expression: siqs(rsa(276))
+
+08/16/2010 13:20:38 v1.19 @ potkin.mayo.edu, Initializing... 
+Powered by Tom's Fast Math (x86-64 asm)
+Using GMP-ECM 6.2.3, Powered by GMP 4.2.3
+cached 78504 primes. pmax = 1000099
+detected cpu 0, with L1 = 32768 bytes, L2 = 262144 bytes
+08/16/2010 13:20:38 v1.19 @ potkin.mayo.edu, User random seed:  1359167133
+
+08/16/2010 13:20:38 v1.19 @ potkin.mayo.edu, Processing expression: siqs(rsa(276))
+
+08/16/2010 13:22:24 v1.19 @ potkin.mayo.edu, Initializing... 
+Powered by Tom's Fast Math (x86-64 asm)
+Using GMP-ECM 6.2.3, Powered by GMP 4.2.3
+cached 78504 primes. pmax = 1000099
+detected cpu 0, with L1 = 32768 bytes, L2 = 262144 bytes
+08/16/2010 13:22:24 v1.19 @ potkin.mayo.edu, User random seed:  4276716349
+
+08/16/2010 13:22:24 v1.19 @ potkin.mayo.edu, Processing expression: siqs(rsa(276))
+
+08/16/2010 13:38:50 v1.19 @ potkin.mayo.edu, Initializing... 
+Powered by Tom's Fast Math (x86-64 asm)
+Using GMP-ECM 6.2.3, Powered by GMP 4.2.3
+cached 78504 primes. pmax = 1000099
+detected cpu 0, with L1 = 32768 bytes, L2 = 262144 bytes
+08/16/2010 13:38:50 v1.19 @ potkin.mayo.edu, User random seed:  4276716349
+
+08/16/2010 13:38:50 v1.19 @ potkin.mayo.edu, Processing expression: siqs(rsa(276))
+
+08/16/2010 13:52:10 v1.19 @ potkin.mayo.edu, Initializing... 
+Powered by Tom's Fast Math (x86-64 asm)
+Using GMP-ECM 6.2.3, Powered by GMP 4.2.3
+cached 78504 primes. pmax = 1000099
+detected cpu 0, with L1 = 32768 bytes, L2 = 262144 bytes
+08/16/2010 13:52:10 v1.19 @ potkin.mayo.edu, User random seed:  4276716349
+
+08/16/2010 14:02:09 v1.19 @ potkin.mayo.edu, Initializing... 
+Powered by Tom's Fast Math (x86-64 asm)
+Using GMP-ECM 6.2.3, Powered by GMP 4.2.3
+cached 78504 primes. pmax = 1000099
+detected cpu 0, with L1 = 32768 bytes, L2 = 262144 bytes
+08/16/2010 14:02:09 v1.19 @ potkin.mayo.edu, User random seed:  4276716349
+
+08/16/2010 14:18:07 v1.19 @ potkin.mayo.edu, Initializing... 
+Powered by Tom's Fast Math (x86-64 asm)
+Using GMP-ECM 6.2.3, Powered by GMP 4.2.3
+cached 78504 primes. pmax = 1000099
+detected cpu 0, with L1 = 32768 bytes, L2 = 262144 bytes
+08/16/2010 14:18:07 v1.19 @ potkin.mayo.edu, User random seed:  4276716349
+
+08/16/2010 14:31:27 v1.19 @ potkin.mayo.edu, Initializing... 
+Powered by Tom's Fast Math (x86-64 asm)
+Using GMP-ECM 6.2.3, Powered by GMP 4.2.3
+cached 78504 primes. pmax = 1000099
+detected cpu 0, with L1 = 32768 bytes, L2 = 262144 bytes
+08/16/2010 14:31:27 v1.19 @ potkin.mayo.edu, User random seed:  4276716349
+
+08/16/2010 14:39:54 v1.19 @ potkin.mayo.edu, Initializing... 
+Powered by Tom's Fast Math (x86-64 asm)
+Using GMP-ECM 6.2.3, Powered by GMP 4.2.3
+cached 78504 primes. pmax = 1000099
+detected cpu 0, with L1 = 32768 bytes, L2 = 262144 bytes
+08/16/2010 14:39:54 v1.19 @ potkin.mayo.edu, User random seed:  4276716349
+
+08/16/2010 14:45:27 v1.19 @ potkin.mayo.edu, Initializing... 
+Powered by Tom's Fast Math (x86-64 asm)
+Using GMP-ECM 6.2.3, Powered by GMP 4.2.3
+cached 78504 primes. pmax = 1000099
+detected cpu 0, with L1 = 32768 bytes, L2 = 262144 bytes
+08/16/2010 14:45:27 v1.19 @ potkin.mayo.edu, User random seed:  4276716349
+
+08/16/2010 14:51:04 v1.19 @ potkin.mayo.edu, Initializing... 
+Powered by Tom's Fast Math (x86-64 asm)
+Using GMP-ECM 6.2.3, Powered by GMP 4.2.3
+cached 78504 primes. pmax = 1000099
+detected cpu 0, with L1 = 32768 bytes, L2 = 262144 bytes
+08/16/2010 14:51:04 v1.19 @ potkin.mayo.edu, User random seed:  4276716349
+
+08/16/2010 14:59:21 v1.19 @ potkin.mayo.edu, Initializing... 
+Powered by Tom's Fast Math (x86-64 asm)
+Using GMP-ECM 6.2.3, Powered by GMP 4.2.3
+cached 78504 primes. pmax = 1000099
+detected cpu 0, with L1 = 32768 bytes, L2 = 262144 bytes
+08/16/2010 14:59:21 v1.19 @ potkin.mayo.edu, User random seed:  4276716349
+
+08/16/2010 15:03:59 v1.19 @ potkin.mayo.edu, Initializing... 
+Powered by Tom's Fast Math (x86-64 asm)
+Using GMP-ECM 6.2.3, Powered by GMP 4.2.3
+cached 78504 primes. pmax = 1000099
+detected cpu 0, with L1 = 32768 bytes, L2 = 262144 bytes
+08/16/2010 15:03:59 v1.19 @ potkin.mayo.edu, User random seed:  4276716349
+
+08/16/2010 15:03:59 v1.19 @ potkin.mayo.edu, Processing expression: siqs(rsa(276))
+
+08/16/2010 15:07:37 v1.19 @ potkin.mayo.edu, Initializing... 
+Powered by Tom's Fast Math (x86-64 asm)
+Using GMP-ECM 6.2.3, Powered by GMP 4.2.3
+cached 78504 primes. pmax = 1000099
+detected cpu 0, with L1 = 32768 bytes, L2 = 262144 bytes
+08/16/2010 15:07:37 v1.19 @ potkin.mayo.edu, User random seed:  4276716349
+
+08/16/2010 15:33:14 v1.19 @ potkin.mayo.edu, Initializing... 
+Powered by Tom's Fast Math (x86-64 asm)
+Using GMP-ECM 6.2.3, Powered by GMP 4.2.3
+cached 78504 primes. pmax = 1000099
+detected cpu 0, with L1 = 32768 bytes, L2 = 262144 bytes
+08/16/2010 15:33:14 v1.19 @ potkin.mayo.edu, User random seed:  4276716349
+
+08/16/2010 15:43:56 v1.19 @ potkin.mayo.edu, Initializing... 
+Powered by Tom's Fast Math (x86-64 asm)
+Using GMP-ECM 6.2.3, Powered by GMP 4.2.3
+cached 78504 primes. pmax = 1000099
+detected cpu 0, with L1 = 32768 bytes, L2 = 262144 bytes
+08/16/2010 15:43:56 v1.19 @ potkin.mayo.edu, User random seed:  4276716349
+
+08/16/2010 15:51:58 v1.19 @ potkin.mayo.edu, Initializing... 
+Powered by Tom's Fast Math (x86-64 asm)
+Using GMP-ECM 6.2.3, Powered by GMP 4.2.3
+cached 664581 primes. pmax = 10000079
+detected cpu 0, with L1 = 32768 bytes, L2 = 262144 bytes
+08/16/2010 15:51:58 v1.19 @ potkin.mayo.edu, New random seeds: 271951388, 2389144870
+
+08/16/2010 16:03:01 v1.19 @ potkin.mayo.edu, Initializing... 
+Powered by Tom's Fast Math (x86-64 asm)
+Using GMP-ECM 6.2.3, Powered by GMP 4.2.3
+cached 78504 primes. pmax = 1000099
+detected cpu 0, with L1 = 32768 bytes, L2 = 262144 bytes
+08/16/2010 16:03:01 v1.19 @ potkin.mayo.edu, New random seeds: 647238449, 1339621489
+
+08/16/2010 16:03:01 v1.19 @ potkin.mayo.edu, Processing expression: factor(5329957168901)
+
+08/16/2010 16:12:53 v1.19 @ potkin.mayo.edu, Initializing... 
+Powered by Tom's Fast Math (x86-64 asm)
+Using GMP-ECM 6.2.3, Powered by GMP 4.2.3
+cached 78504 primes. pmax = 1000099
+detected cpu 0, with L1 = 32768 bytes, L2 = 262144 bytes
+08/16/2010 16:12:53 v1.19 @ potkin.mayo.edu, New random seeds: 3160319030, 1921288914
+
+08/16/2010 16:12:53 v1.19 @ potkin.mayo.edu, Processing expression: factor(5329957168901)
+
+08/16/2010 16:13:02 v1.19 @ potkin.mayo.edu, Initializing... 
+Powered by Tom's Fast Math (x86-64 asm)
+Using GMP-ECM 6.2.3, Powered by GMP 4.2.3
+cached 78504 primes. pmax = 1000099
+detected cpu 0, with L1 = 32768 bytes, L2 = 262144 bytes
+08/16/2010 16:13:02 v1.19 @ potkin.mayo.edu, New random seeds: 592353042, 3677022970
+
+08/16/2010 16:13:02 v1.19 @ potkin.mayo.edu, Processing expression: squfof(5329957168901)
+
+08/16/2010 16:14:27 v1.19 @ potkin.mayo.edu, Initializing... 
+Powered by Tom's Fast Math (x86-64 asm)
+Using GMP-ECM 6.2.3, Powered by GMP 4.2.3
+cached 78504 primes. pmax = 1000099
+detected cpu 0, with L1 = 32768 bytes, L2 = 262144 bytes
+08/16/2010 16:14:27 v1.19 @ potkin.mayo.edu, User random seed:  4276716349
+
+08/16/2010 16:14:27 v1.19 @ potkin.mayo.edu, Processing expression: siqs(rsa(276))
+
+08/16/2010 16:17:46 v1.19 @ potkin.mayo.edu, Initializing... 
+Powered by Tom's Fast Math (x86-64 asm)
+Using GMP-ECM 6.2.3, Powered by GMP 4.2.3
+cached 78504 primes. pmax = 1000099
+detected cpu 0, with L1 = 32768 bytes, L2 = 262144 bytes
+08/16/2010 16:17:46 v1.19 @ potkin.mayo.edu, User random seed:  4276716349
+
+08/16/2010 16:17:46 v1.19 @ potkin.mayo.edu, Processing expression: siqs(rsa(276))
+
+08/16/2010 16:57:14 v1.19 @ potkin.mayo.edu, Initializing... 
+Powered by Tom's Fast Math (x86-64 asm)
+Using GMP-ECM 6.2.3, Powered by GMP 4.2.3
+cached 78504 primes. pmax = 1000099
+detected cpu 0, with L1 = 32768 bytes, L2 = 262144 bytes
+08/16/2010 16:57:14 v1.19 @ potkin.mayo.edu, User random seed:  4276716349
+
+08/16/2010 16:57:14 v1.19 @ potkin.mayo.edu, Processing expression: siqs(rsa(276))
+
+08/16/2010 17:00:52 v1.19 @ potkin.mayo.edu, Initializing... 
+Powered by Tom's Fast Math (x86-64 asm)
+Using GMP-ECM 6.2.3, Powered by GMP 4.2.3
+cached 78504 primes. pmax = 1000099
+detected cpu 0, with L1 = 32768 bytes, L2 = 262144 bytes
+08/16/2010 17:00:52 v1.19 @ potkin.mayo.edu, User random seed:  4276716349
+
+08/16/2010 17:00:52 v1.19 @ potkin.mayo.edu, Processing expression: siqs(rsa(276))
+
+08/16/2010 21:49:55 v1.19.2 @ talz.mayo.edu, Initializing... 
+Powered by Tom's Fast Math (x86-64 asm)
+Using GMP-ECM 6.2.3, Powered by GMP 4.2.3
+cached 78504 primes. pmax = 1000099
+detected cpu 0, with L1 = 32768 bytes, L2 = 262144 bytes
+08/16/2010 21:49:55 v1.19.2 @ talz.mayo.edu, New random seeds: 3492791668, 341548582
+
+08/16/2010 21:49:55 v1.19.2 @ talz.mayo.edu, Processing expression: siqs(rsa(240))
+
+08/16/2010 21:50:41 v1.19.2 @ talz.mayo.edu, Initializing... 
+Powered by Tom's Fast Math (x86-64 asm)
+Using GMP-ECM 6.2.3, Powered by GMP 4.2.3
+cached 78504 primes. pmax = 1000099
+detected cpu 0, with L1 = 32768 bytes, L2 = 262144 bytes
+08/16/2010 21:50:41 v1.19.2 @ talz.mayo.edu, New random seeds: 3800745038, 3873483896
+
+08/16/2010 21:50:41 v1.19.2 @ talz.mayo.edu, Processing expression: siqs(1142356065793651667279916474699444797641283250246309250004336049565606933)
+
+08/16/2010 21:51:51 v1.19.2 @ talz.mayo.edu, Initializing... 
+Powered by Tom's Fast Math (x86-64 asm)
+Using GMP-ECM 6.2.3, Powered by GMP 4.2.3
+cached 78504 primes. pmax = 1000099
+detected cpu 0, with L1 = 32768 bytes, L2 = 262144 bytes
+08/16/2010 21:51:51 v1.19.2 @ talz.mayo.edu, New random seeds: 2141293209, 2657342613
+
+08/16/2010 21:51:51 v1.19.2 @ talz.mayo.edu, Processing expression: siqs(rsa(260))
+
+08/16/2010 21:53:11 v1.19.2 @ talz.mayo.edu, Initializing... 
+Powered by Tom's Fast Math (x86-64 asm)
+Using GMP-ECM 6.2.3, Powered by GMP 4.2.3
+cached 78504 primes. pmax = 1000099
+detected cpu 0, with L1 = 32768 bytes, L2 = 262144 bytes
+08/16/2010 21:53:11 v1.19.2 @ talz.mayo.edu, New random seeds: 739457148, 4142074563
+
+08/16/2010 21:53:11 v1.19.2 @ talz.mayo.edu, Processing expression: siqs(1138498936815926780437703729068484821846107778454947745338376544759473336463361)
+
+08/16/2010 21:54:23 v1.19.2 @ talz.mayo.edu, Initializing... 
+Powered by Tom's Fast Math (x86-64 asm)
+Using GMP-ECM 6.2.3, Powered by GMP 4.2.3
+cached 78504 primes. pmax = 1000099
+detected cpu 0, with L1 = 32768 bytes, L2 = 262144 bytes
+08/16/2010 21:54:23 v1.19.2 @ talz.mayo.edu, New random seeds: 2120443522, 3872178657
+
+08/16/2010 21:54:23 v1.19.2 @ talz.mayo.edu, Processing expression: siqs(rsa(260))
+
+08/16/2010 21:55:44 v1.19.2 @ talz.mayo.edu, Initializing... 
+Powered by Tom's Fast Math (x86-64 asm)
+Using GMP-ECM 6.2.3, Powered by GMP 4.2.3
+cached 78504 primes. pmax = 1000099
+detected cpu 0, with L1 = 32768 bytes, L2 = 262144 bytes
+08/16/2010 21:55:44 v1.19.2 @ talz.mayo.edu, New random seeds: 1181190242, 2248665069
+
+08/16/2010 21:55:44 v1.19.2 @ talz.mayo.edu, Processing expression: siqs(1066830817270283897364543333679474724792955839066323193647485957087954654196553)
+
+08/16/2010 21:57:08 v1.19.2 @ talz.mayo.edu, Initializing... 
+Powered by Tom's Fast Math (x86-64 asm)
+Using GMP-ECM 6.2.3, Powered by GMP 4.2.3
+cached 78504 primes. pmax = 1000099
+detected cpu 0, with L1 = 32768 bytes, L2 = 262144 bytes
+08/16/2010 21:57:08 v1.19.2 @ talz.mayo.edu, New random seeds: 395314030, 624037948
+
+08/16/2010 21:57:08 v1.19.2 @ talz.mayo.edu, Processing expression: siqs(rsa(280))
+
+08/16/2010 22:00:24 v1.19.2 @ talz.mayo.edu, Initializing... 
+Powered by Tom's Fast Math (x86-64 asm)
+Using GMP-ECM 6.2.3, Powered by GMP 4.2.3
+cached 78504 primes. pmax = 1000099
+detected cpu 0, with L1 = 32768 bytes, L2 = 262144 bytes
+08/16/2010 22:00:24 v1.19.2 @ talz.mayo.edu, New random seeds: 3630715006, 2503623932
+
+08/16/2010 22:00:24 v1.19.2 @ talz.mayo.edu, Processing expression: siqs(1577240082048728346299585350593491563313943669089268368085960706854392291864254932253)
+
+08/16/2010 22:07:39 v1.19.2 @ talz.mayo.edu, Initializing... 
+Powered by Tom's Fast Math (x86-64 asm)
+Using GMP-ECM 6.2.3, Powered by GMP 4.2.3
+cached 78504 primes. pmax = 1000099
+detected cpu 0, with L1 = 32768 bytes, L2 = 262144 bytes
+08/16/2010 22:07:39 v1.19.2 @ talz.mayo.edu, New random seeds: 851807397, 3921074319
+
+08/16/2010 22:07:39 v1.19.2 @ talz.mayo.edu, Processing expression: siqs(rsa(280))
+
+08/16/2010 22:10:40 v1.19.2 @ talz.mayo.edu, Initializing... 
+Powered by Tom's Fast Math (x86-64 asm)
+Using GMP-ECM 6.2.3, Powered by GMP 4.2.3
+cached 78504 primes. pmax = 1000099
+detected cpu 0, with L1 = 32768 bytes, L2 = 262144 bytes
+08/16/2010 22:10:40 v1.19.2 @ talz.mayo.edu, New random seeds: 1284885990, 2963723593
+
+08/16/2010 22:10:40 v1.19.2 @ talz.mayo.edu, Processing expression: siqs(1761285252225320375363861676868934503453504292743082080902143342142524009749135635257)
+
+08/16/2010 22:10:52 v1.19.2 @ talz.mayo.edu, Initializing... 
+Powered by Tom's Fast Math (x86-64 asm)
+Using GMP-ECM 6.2.3, Powered by GMP 4.2.3
+cached 78504 primes. pmax = 1000099
+detected cpu 0, with L1 = 32768 bytes, L2 = 262144 bytes
+08/16/2010 22:10:52 v1.19.2 @ talz.mayo.edu, New random seeds: 3031074264, 582680269
+
+08/16/2010 22:10:52 v1.19.2 @ talz.mayo.edu, Processing expression: siqs(1761285252225320375363861676868934503453504292743082080902143342142524009749135635257)
+
+08/16/2010 22:13:49 v1.19.2 @ talz.mayo.edu, Initializing... 
+Powered by Tom's Fast Math (x86-64 asm)
+Using GMP-ECM 6.2.3, Powered by GMP 4.2.3
+cached 78504 primes. pmax = 1000099
+detected cpu 0, with L1 = 32768 bytes, L2 = 262144 bytes
+08/16/2010 22:13:49 v1.19.2 @ talz.mayo.edu, New random seeds: 345772735, 1649872307
+
+08/16/2010 22:13:49 v1.19.2 @ talz.mayo.edu, Processing expression: siqs(rsa(300))
+
+08/16/2010 22:39:12 v1.19.2 @ talz.mayo.edu, Initializing... 
+Powered by Tom's Fast Math (x86-64 asm)
+Using GMP-ECM 6.2.3, Powered by GMP 4.2.3
+cached 78504 primes. pmax = 1000099
+detected cpu 0, with L1 = 32768 bytes, L2 = 262144 bytes
+08/16/2010 22:39:12 v1.19.2 @ talz.mayo.edu, New random seeds: 3262027091, 1659164372
+
+08/16/2010 22:39:12 v1.19.2 @ talz.mayo.edu, Processing expression: siqs(1813800596309774340566573257973772842883908174252902804297738824965054693636129635877967211)
+
+08/17/2010 00:18:29 v1.19.2 @ talz.mayo.edu, Initializing... 
+Powered by Tom's Fast Math (x86-64 asm)
+Using GMP-ECM 6.2.3, Powered by GMP 4.2.3
+cached 78504 primes. pmax = 1000099
+detected cpu 0, with L1 = 32768 bytes, L2 = 262144 bytes
+08/17/2010 00:18:29 v1.19.2 @ talz.mayo.edu, New random seeds: 3026419116, 1115581564
+
+08/17/2010 00:18:29 v1.19.2 @ talz.mayo.edu, Processing expression: siqsbench
+
+08/17/2010 00:18:49 v1.19.2 @ talz.mayo.edu, Initializing... 
+Powered by Tom's Fast Math (x86-64 asm)
+Using GMP-ECM 6.2.3, Powered by GMP 4.2.3
+cached 78504 primes. pmax = 1000099
+detected cpu 0, with L1 = 32768 bytes, L2 = 262144 bytes
+08/17/2010 00:18:49 v1.19.2 @ talz.mayo.edu, New random seeds: 2384477440, 1303385347
+
+08/17/2010 00:18:49 v1.19.2 @ talz.mayo.edu, Processing expression: siqsbench
+
+08/17/2010 00:45:08 v1.19.2 @ talz.mayo.edu, Initializing... 
+Powered by Tom's Fast Math (x86-64 asm)
+Using GMP-ECM 6.2.3, Powered by GMP 4.2.3
+cached 78504 primes. pmax = 1000099
+detected cpu 0, with L1 = 32768 bytes, L2 = 262144 bytes
+08/17/2010 00:45:08 v1.19.2 @ talz.mayo.edu, New random seeds: 4167420089, 3451530539
+
+08/17/2010 00:45:08 v1.19.2 @ talz.mayo.edu, Processing expression: siqs(7456482836301983072751757080079609980368702375378513429852397523678294751191007081)
+
+08/17/2010 00:52:46 v1.19.2 @ talz.mayo.edu, Initializing... 
+Powered by Tom's Fast Math (x86-64 asm)
+Using GMP-ECM 6.2.3, Powered by GMP 4.2.3
+cached 78504 primes. pmax = 1000099
+detected cpu 0, with L1 = 32768 bytes, L2 = 262144 bytes
+08/17/2010 00:52:46 v1.19.2 @ talz.mayo.edu, New random seeds: 274260830, 587463591
+
+08/17/2010 00:52:46 v1.19.2 @ talz.mayo.edu, Processing expression: siqs(1877138824359859508015524119652506869600959721781289179190693027302028679377371001561)
+
+08/17/2010 08:51:35 v1.19.2 @ talz.mayo.edu, Initializing... 
+Powered by Tom's Fast Math (x86-64 asm)
+Using GMP-ECM 6.2.3, Powered by GMP 4.2.3
+cached 78504 primes. pmax = 1000099
+detected cpu 0, with L1 = 32768 bytes, L2 = 262144 bytes
+08/17/2010 08:51:35 v1.19.2 @ talz.mayo.edu, New random seeds: 903512234, 458276550
+
+08/17/2010 08:51:35 v1.19.2 @ talz.mayo.edu, Processing expression: siqs(1045533344258267291828235545701348663260473284777817698144269315960112408799327)
+
+08/17/2010 08:57:03 v1.19.2 @ talz.mayo.edu, Initializing... 
+Powered by Tom's Fast Math (x86-64 asm)
+Using GMP-ECM 6.2.3, Powered by GMP 4.2.3
+cached 78504 primes. pmax = 1000099
+detected cpu 0, with L1 = 32768 bytes, L2 = 262144 bytes
+08/17/2010 08:57:03 v1.19.2 @ talz.mayo.edu, New random seeds: 606192437, 1026864023
+
+08/17/2010 08:57:03 v1.19.2 @ talz.mayo.edu, Processing expression: siqs(1562758821621096999122284674042615762643406449785343152130972979870773670786441932529)
+
+08/17/2010 09:08:41 v1.19.2 @ talz.mayo.edu, Initializing... 
+Powered by Tom's Fast Math (x86-64 asm)
+Using GMP-ECM 6.2.3, Powered by GMP 4.2.3
+cached 78504 primes. pmax = 1000099
+detected cpu 0, with L1 = 32768 bytes, L2 = 262144 bytes
+08/17/2010 09:08:41 v1.19.2 @ talz.mayo.edu, New random seeds: 4240501837, 3973251353
+
+08/17/2010 09:08:41 v1.19.2 @ talz.mayo.edu, Processing expression: siqs(rsa(300))
+
+08/17/2010 10:18:53 v1.19.2 @ talz.mayo.edu, Initializing... 
+Powered by Tom's Fast Math (x86-64 asm)
+Using GMP-ECM 6.2.3, Powered by GMP 4.2.3
+cached 78504 primes. pmax = 1000099
+detected cpu 0, with L1 = 32768 bytes, L2 = 262144 bytes
+08/17/2010 10:18:53 v1.19.2 @ talz.mayo.edu, New random seeds: 3622788807, 1716434516
+
+08/17/2010 10:18:53 v1.19.2 @ talz.mayo.edu, Processing expression: siqs(rsa(300))
+
+08/17/2010 10:59:18 v1.19.2 @ talz.mayo.edu, Initializing... 
+Powered by Tom's Fast Math (x86-64 asm)
+Using GMP-ECM 6.2.3, Powered by GMP 4.2.3
+cached 78504 primes. pmax = 1000099
+detected cpu 0, with L1 = 32768 bytes, L2 = 262144 bytes
+08/17/2010 10:59:18 v1.19.2 @ talz.mayo.edu, New random seeds: 388215531, 2225266342
+
+08/17/2010 10:59:18 v1.19.2 @ talz.mayo.edu, Processing expression: siqs(6470287906463336878241474855987746904297564226439499503918586590778209)
+
+08/17/2010 10:59:59 v1.19.2 @ talz.mayo.edu, Initializing... 
+Powered by Tom's Fast Math (x86-64 asm)
+Using GMP-ECM 6.2.3, Powered by GMP 4.2.3
+cached 78504 primes. pmax = 1000099
+detected cpu 0, with L1 = 32768 bytes, L2 = 262144 bytes
+08/17/2010 10:59:59 v1.19.2 @ talz.mayo.edu, New random seeds: 2160815283, 3444137361
+
+08/17/2010 10:59:59 v1.19.2 @ talz.mayo.edu, Processing expression: siqs(6470287906463336878241474855987746904297564226439499503918586590778209)
+
+08/17/2010 11:00:13 v1.19.2 @ talz.mayo.edu, Initializing... 
+Powered by Tom's Fast Math (x86-64 asm)
+Using GMP-ECM 6.2.3, Powered by GMP 4.2.3
+cached 78504 primes. pmax = 1000099
+detected cpu 0, with L1 = 32768 bytes, L2 = 262144 bytes
+08/17/2010 11:00:13 v1.19.2 @ talz.mayo.edu, New random seeds: 4152361138, 737341869
+
+08/17/2010 11:00:13 v1.19.2 @ talz.mayo.edu, Processing expression: siqs(6470287906463336878241474855987746904297564226439499503918586590778209)
+
+08/17/2010 11:05:57 v1.19.2 @ talz.mayo.edu, Initializing... 
+Powered by Tom's Fast Math (x86-64 asm)
+Using GMP-ECM 6.2.3, Powered by GMP 4.2.3
+cached 78504 primes. pmax = 1000099
+detected cpu 0, with L1 = 32768 bytes, L2 = 262144 bytes
+08/17/2010 11:05:57 v1.19.2 @ talz.mayo.edu, New random seeds: 3218002778, 3667254155
+
+08/17/2010 11:09:02 v1.19.2 @ talz.mayo.edu, Initializing... 
+Powered by Tom's Fast Math (x86-64 asm)
+Using GMP-ECM 6.2.3, Powered by GMP 4.2.3
+cached 78504 primes. pmax = 1000099
+detected cpu 0, with L1 = 32768 bytes, L2 = 262144 bytes
+08/17/2010 11:09:02 v1.19.2 @ talz.mayo.edu, New random seeds: 2155623326, 980325483
+
+08/17/2010 11:09:02 v1.19.2 @ talz.mayo.edu, Processing expression: pullp
+
+08/17/2010 11:10:07 v1.19.2 @ talz.mayo.edu, Initializing... 
+Powered by Tom's Fast Math (x86-64 asm)
+Using GMP-ECM 6.2.3, Powered by GMP 4.2.3
+cached 78504 primes. pmax = 1000099
+detected cpu 0, with L1 = 32768 bytes, L2 = 262144 bytes
+08/17/2010 11:10:07 v1.19.2 @ talz.mayo.edu, New random seeds: 314211495, 2894906017
+
+08/17/2010 11:10:07 v1.19.2 @ talz.mayo.edu, Processing expression: pullp
+
+08/17/2010 11:13:08 v1.19.2 @ talz.mayo.edu, Initializing... 
+Powered by Tom's Fast Math (x86-64 asm)
+Using GMP-ECM 6.2.3, Powered by GMP 4.2.3
+cached 78504 primes. pmax = 1000099
+detected cpu 0, with L1 = 32768 bytes, L2 = 262144 bytes
+08/17/2010 11:13:08 v1.19.2 @ talz.mayo.edu, New random seeds: 1884979290, 1759060046
+
+08/17/2010 11:15:24 v1.19.2 @ talz.mayo.edu, Initializing... 
+Powered by Tom's Fast Math (x86-64 asm)
+Using GMP-ECM 6.2.3, Powered by GMP 4.2.3
+cached 78504 primes. pmax = 1000099
+detected cpu 0, with L1 = 32768 bytes, L2 = 262144 bytes
+08/17/2010 11:15:24 v1.19.2 @ talz.mayo.edu, New random seeds: 3133554613, 4021840017
+
+08/17/2010 11:15:24 v1.19.2 @ talz.mayo.edu, Processing expression: pullp
+
+08/17/2010 11:16:59 v1.19.2 @ talz.mayo.edu, Initializing... 
+Powered by Tom's Fast Math (x86-64 asm)
+Using GMP-ECM 6.2.3, Powered by GMP 4.2.3
+cached 78504 primes. pmax = 1000099
+detected cpu 0, with L1 = 32768 bytes, L2 = 262144 bytes
+08/17/2010 11:16:59 v1.19.2 @ talz.mayo.edu, New random seeds: 2229312974, 4281821179
+
+08/17/2010 11:16:59 v1.19.2 @ talz.mayo.edu, Processing expression: pullp
+
